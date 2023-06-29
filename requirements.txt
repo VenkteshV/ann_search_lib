@@ -1,0 +1,10 @@
+annoy==1.17.2
+scann==1.2.9
+zope==5.8.1
+uvicorn
+fastapi==0.95.1
+uvicorn==0.21.1
+toml==0.10.2
+sentence_transformers==2.2.2
+pandas
+zope
